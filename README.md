@@ -44,7 +44,7 @@ To get started with the DevOps Flask App, follow these steps:
    ```
 
 
-![Image-run](images/image-build.jpg)
+   ![Image-run](images/image-build.jpg)
 
 
 
@@ -55,21 +55,19 @@ To get started with the DevOps Flask App, follow these steps:
    ```
 
 
-   ![Website](images/push-to-dockerhub.jpg)
-  
+   ![On DockerHub](images/on-dockerhub.jpg)
 
-
+   
 
 6. **Access the App**: Open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to see the running Flask app.
 
 
     ![Container-on-run](images/container-run.jpg)
 
-   
-    ![On DockerHub](images/on-dockerhub.jpg)
 
+   ![Website](images/push-to-dockerhub.jpg)
 
-   
+    
 ## Usage
 
 This project serves as both a learning resource and a starting point for further exploration. Feel free to modify the Flask app, experiment with different Docker configurations, or integrate additional tools and services to enhance your DevOps skills.
@@ -77,8 +75,6 @@ This project serves as both a learning resource and a starting point for further
 ## Contributing
 
 Contributions are welcome! If you've discovered improvements or fixes, please submit a pull request. For major changes or new features, it's a good idea to open an issue first to discuss your ideas.
-
-
 
 
 By exploring the DevOps Flask App repository, you'll gain insights into containerization, Docker, and DevOps principles. Happy coding and containerizing! If you have any questions or need further assistance, don't hesitate to reach out.
