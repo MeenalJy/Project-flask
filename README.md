@@ -43,13 +43,27 @@ To get started with the DevOps Flask App, follow these steps:
    docker build -t devops-flask-app .
    ```
 
+
 4. **Run the Container**: Start a container based on the newly created image:
 
    ```
    docker run -p 5000:5000 devops-flask-app
    ```
 
+
+
+![Container-on-run](container-run.jpg)
+
+
+
 5. **Access the App**: Open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to see the running Flask app.
+
+
+![On DockerHub](on-dockerhub.jpg)
+
+
+![Website](push-to-dockerhub.jpg)
+
 
 ## Usage
 
